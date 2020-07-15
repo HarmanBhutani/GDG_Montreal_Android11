@@ -5,4 +5,7 @@ IME Transitions
 
 
 App with three tabs is available in compressed "App_gdg.zip" file
-![GDG Montreal Talk](b.png)
+![GDG Tab App](b.png)
+
+Chat App with IME Animations
+![GDG chat App](a.png)
